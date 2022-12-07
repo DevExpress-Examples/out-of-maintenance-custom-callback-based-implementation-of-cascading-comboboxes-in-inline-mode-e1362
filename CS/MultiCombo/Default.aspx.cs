@@ -2,9 +2,7 @@ using System;
 using System.Data;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 
 namespace MultiCombo
 {
